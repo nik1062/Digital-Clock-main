@@ -14,6 +14,8 @@ section{
   align-items: center;
   justify-content: center;
   background: #F0F8FF;
+  background-size: cover;
+
   padding: 0 20px;
 }
 section.dark{
@@ -21,7 +23,7 @@ section.dark{
 }
 section .container{
   display: flex;
-  align-items center;
+  align-items: center;
   justify-content: center;
   height: 220px;
   max-width: 560px;
