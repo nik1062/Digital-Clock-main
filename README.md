@@ -13,9 +13,8 @@ A simple and responsive **Digital Clock** built using **HTML, CSS, and JavaScrip
 - Easy to host on **GitHub Pages** for online access.  
 
 ## 📷 Preview  
-(Add a screenshot of your clock here, e.g. `screenshot.png`)  
-
+https://nik1062.github.io/Digital-Clock-main/
 ## 💻 How to Run  
 1. Download or clone the repository:  
    
-   git clone https://github.com/nik1062/Digital-Clock-main.git
+   git clone https://github.com/nik1062/Digital-Clock-main/
